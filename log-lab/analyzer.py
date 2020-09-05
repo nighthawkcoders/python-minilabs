@@ -1,5 +1,3 @@
-
-
 """
 This code will read the access log from the Nighthawk Coders Website
 
